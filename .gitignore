@@ -41,6 +41,7 @@ Assets/Plugins/
 *.swp
 *.swo
 *.swn
+.gitignore
 
 # =============== #
 # UPM Package Specific  #
