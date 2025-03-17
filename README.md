@@ -3,12 +3,12 @@
 A Unity Editor tool that automatically adjusts UI anchors based on an element's current position. This helps maintain UI consistency across different screen sizes and resolutions.  
 
 ## 📦 Package Information  
-- **Name:** `com.yourname.autoanchortool`  
+- **Name:** `MatiuxG.AutoAnchorTool`  
 - **Version:** `1.0.0`  
 - **Unity Compatibility:** `2021.3+`  
 - **Category:** UI / Tools  
 - **Author:** Your Name  
-- **Repository:** [GitHub Repo](https://github.com/yourgithub/AutoAnchorTool)  
+- **Repository:** [GitHub Repo](https://github.com/MatiuxG/AutoAnchorTool)  
 
 ---
 
